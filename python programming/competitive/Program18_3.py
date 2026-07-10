@@ -1,4 +1,4 @@
-def ChkMax(Data):
+def ChkMin(Data):
     No1 = Data[0]
     for No in Data:
         if No1 > No:
@@ -18,7 +18,7 @@ def main():
         Arr.append(No)
     print(Arr)
 
-    Ret = ChkMax(Arr)
+    Ret = ChkMin(Arr)
 
     print(f"Minimum number from list is {Ret}")
 
