@@ -1,0 +1,10 @@
+14/06/26
+Paradigms
+1.Sequance   no syntax 
+2.Selection 
+   1.if 
+   2.if else
+   3.if elif else
+3.Iteration
+   1.for loop 
+   2.while loop
